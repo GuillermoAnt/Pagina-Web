@@ -1,7 +1,16 @@
 body {
     margin: 0;
-    font-family: sans-serif;
+    font-family: Haltom, sans-serif;
+    font-style: ha;
 }
+  @font-face {
+     font-family: 'Hatton';
+     src: url('PP\ Hatton\ Bold\ 700.otf') format('otf'),
+          url('PP\ Hatton\ Medium\ 500.otf') format('otf1'),
+           url('PP\ Hatton\ Ultralight\ 200.otf') format('otf2');
+     font-weight: normal;
+     font-style: normal;
+   }
 
 header {
     background-color: #f0f0f0;
