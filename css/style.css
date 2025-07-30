@@ -36,19 +36,13 @@ main {
     padding: 20px;
 }
 
-.contenedor{
-display: flex; 
-    width: 100%;
-    height: auto;
-}
 
-.col-6{
+
+.g-col-6{
     background-color: #6d7a63;
     
 }
-.col-2{
-    background-color: white;
-}
+
 footer {
     background-color: #a9b297;
     color: #f9f9f7;
