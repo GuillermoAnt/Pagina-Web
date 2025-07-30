@@ -35,15 +35,17 @@ nav a {
 main {
     padding: 20px;
 }
-.sec-1{
-text-align: left;
-display: flex;
-width: 350px;
+.izquierda{
+width: 50%;
 }
 .contenedor{
-width: 49%;
-  background-color: #6d7a63;
-  margin: 1% 1%;
+display: flex; 
+    width: 100%;
+    height: 500px; 
+}
+.derecha{
+    background-color: #6d7a63;
+width: 50%;
 }
 footer {
     background-color: #a9b297;
