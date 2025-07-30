@@ -36,16 +36,10 @@ main {
     padding: 20px;
 }
 
-.grid text-center{
-display: flex; 
-    width: 100%;
-    height: auto;
-}
 
 .g-col-6{
     background-color: #6d7a63;
-    margin-left: 5%;
-    margin-right: 5%;
+    
 }
 
 footer {
