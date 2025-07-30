@@ -36,9 +36,8 @@ main {
     padding: 20px;
 }
 
-.contenedor{
+.grid text-center{
 display: flex; 
-text-align: center;
     width: 100%;
     height: auto;
 }
