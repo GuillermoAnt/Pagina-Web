@@ -1,12 +1,11 @@
 body {
     margin: 0;
-    
+    font-family: sans-serif;
     
 }
 
-
 header {
-    background-color: #435739;
+    background-color: #f0f0f0;
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -30,7 +29,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #a9b297;
+    color: #333;
 }
 
 main {
@@ -38,8 +37,8 @@ main {
 }
 
 footer {
-    background-color: #a9b297;
-    color: #e2e5dc;
+    background-color: #333;
+    color: white;
     text-align: center;
     padding: 20px;
 }
