@@ -40,6 +40,11 @@ text-align: left;
 display: flex;
 width: 350px;
 }
+.contenedor{
+    width: 49%;
+  background-color: #6d7a63;
+  margin: 1% 1%;
+}
 footer {
     background-color: #a9b297;
     color: #f9f9f7;
