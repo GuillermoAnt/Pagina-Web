@@ -45,7 +45,12 @@ main {
     background-color: #6d7a63;
     
 }
-
+.titulo{
+    text-align: center;
+}
+.texto{
+    text-align: justify;
+}
 footer {
     background-color: #a9b297;
     color: #f9f9f7;
