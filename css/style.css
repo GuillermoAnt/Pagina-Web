@@ -40,10 +40,10 @@ main {
     width: 100%;
     display: flex;
     justify-content: center;
-     flex-wrap: wrap;
 }
 
-.col-6{
+.column{
+    flex: 1;
     background-color: #6d7a63;
     
 }
@@ -51,6 +51,7 @@ main {
     text-align: center;
 }
 .texto{
+    text-align: justify;
     margin-left: 5%;
     margin-right: 5%;
 }
