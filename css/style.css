@@ -38,6 +38,7 @@ main {
 .sec-1{
 text-align: left;
 display: flex;
+width: 350px;
 }
 footer {
     background-color: #a9b297;
