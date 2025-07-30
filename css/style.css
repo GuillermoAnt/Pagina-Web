@@ -29,7 +29,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #333;
+    color: #f9f9f7;
 }
 
 main {
@@ -38,7 +38,7 @@ main {
 
 footer {
     background-color: #a9b297;
-    color: white;
+    color: #f9f9f7;
     text-align: center;
     padding: 20px;
 }
