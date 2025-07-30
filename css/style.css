@@ -41,12 +41,9 @@ display: flex;
     width: 100%;
     height: auto;
 }
-.izquierda{
-width: 50%;
-}
+
 .derecha{
     background-color: #6d7a63;
-    width: 50%;
     
 }
 footer {
