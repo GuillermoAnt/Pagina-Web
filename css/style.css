@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: sans-serif;
+    font-family: 'Hatton', serif;
     background-color: #f9f9f7;
     
 }
@@ -11,6 +11,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-family: 'Hatton', serif;
 }
 
 .logo img {
@@ -48,10 +49,11 @@ main {
     
 }
 .titulo{
+    font-family: 'Hatton', serif;
     text-align: center;
 }
 .texto{
-    
+  font-family: 'Hatton', serif;
     margin-left: 5%;
     margin-right: 5%;
 }
@@ -60,6 +62,7 @@ footer {
     color: #f9f9f7;
     text-align: center;
     padding: 20px;
+    font-family: 'Hatton', serif;
 }
 
 .footer-content {
@@ -76,4 +79,10 @@ footer {
       .contenedor {
         flex-direction: column;
       }
+    }
+     @font-face {
+      font-family: 'Hatton';
+      src: url('PP\ Hatton\ Bold\ 700.otf') format('otf');
+      font-weight: normal;
+      font-style: normal;
     }
