@@ -46,6 +46,9 @@ display: flex;
     background-color: #6d7a63;
     
 }
+.col-2{
+    background-color: white;
+}
 footer {
     background-color: #a9b297;
     color: #f9f9f7;
