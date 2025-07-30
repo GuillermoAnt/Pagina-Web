@@ -37,6 +37,7 @@ main {
 }
 .sec-1{
 text-align: left;
+display: flex;
 }
 footer {
     background-color: #a9b297;
