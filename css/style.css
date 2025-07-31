@@ -59,12 +59,40 @@ main {
     border-end-end-radius: 10%;
     border-start-end-radius: 10%;
     border-end-start-radius: 10%;
+   
     
+}
+.columnatitulo{
+    flex: 1;
+    background-color: #6d7a63;
+    border-style: solid;
+    border-color: #a9b297;
+    border-start-start-radius: 10%;
+    border-end-end-radius: 10%;
+    border-start-end-radius: 10%;
+    border-end-start-radius: 10%;
+   
+    
+}
+.columnatext{
+    flex: 1;
+    background-image: url('../images/fondoAcercade.jpeg');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-color: #a9b297;
    
     
 }
 .titulo{
     font-family: 'Hatton', serif;
+    text-align: center;
+    
+}
+.acerca{
     text-align: center;
 }
 .texto{
@@ -72,6 +100,7 @@ main {
     margin-left: 5%;
     margin-right: 5%;
 }
+
 footer {
     background-color: #a9b297;
     color: #f9f9f7;
