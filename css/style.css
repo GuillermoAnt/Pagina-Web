@@ -55,6 +55,10 @@ main {
     background-color: #6d7a63;
     border-style: solid;
     border-color: #a9b297;
+    border-start-start-radius: 10%;
+    border-end-end-radius: 10%;
+    border-start-end-radius: 10%;
+    border-end-start-radius: 10%;
     
    
     
