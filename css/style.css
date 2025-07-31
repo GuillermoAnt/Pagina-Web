@@ -46,13 +46,15 @@ main {
 .column{
     flex: 1;
     background-color: #6d7a63;
-    margin-right: 0.5cm;
+    margin-right: 0.2cm;
    
     
 }
 .column1{
     flex: 1;
     background-color: #6d7a63;
+    border-style: solid;
+    border-color: #a9b297;
     
    
     
