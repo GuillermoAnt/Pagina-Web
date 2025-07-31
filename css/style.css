@@ -46,7 +46,15 @@ main {
 .column{
     flex: 1;
     background-color: #6d7a63;
-    border-right: 2cm;
+    margin-right: 1cm;
+   
+    
+}
+.column1{
+    flex: 1;
+    background-color: #6d7a63;
+    
+   
     
 }
 .titulo{
