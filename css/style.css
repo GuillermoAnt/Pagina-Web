@@ -66,6 +66,27 @@ main {
 
 .column img{
     border-radius: 30%;
+    object-fit: cover;
+}
+.column2 img{
+    border-radius: 100%;
+}
+
+.column3{
+    flex: 1;
+   
+    margin-right: 0.2cm;
+   
+   align-items: center;
+   
+    
+}
+
+.column3 img{
+    margin-top: 2cm;
+    border-radius: 60%;
+    flex: auto;
+    align-items: center;
 }
 .column1{
     flex: 1;
